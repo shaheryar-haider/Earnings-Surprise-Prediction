@@ -74,7 +74,7 @@ Expanding window approach following Gu et al. (2020):
 ```
 fine695_individual/
 │
-├── individual_assignment.py    # Main run file
+├── main.py    # Main run file
 ├── README.md                   # This file
 ├── .gitignore                  # Excludes large data files
 │
