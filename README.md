@@ -4,8 +4,7 @@
 
 ## Strategy Overview
 
-This project implements a **long-short equity strategy** based on predicting earnings surprises using machine learning. The core idea is that stocks with predictable positive earnings surprises tend to outperform, while stocks likely to disappoint tend to underperform — a well-documented phenomenon known as **Post-Earnings Announcement Drift (PEAD)**.
-
+This project implements a **long-short equity strategy** based on predicting earnings surprises using machine learning. The core idea is that stocks with predictable positive earnings surprises tend to outperform.
 **Target Variable:** Earnings Surprise = `eps_actual − eps_meanest` (actual EPS minus mean analyst consensus estimate)
 
 **Portfolio:**
