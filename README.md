@@ -1,8 +1,6 @@
 ## Earnings Surprise Prediction Strategy
 
 **Author:** Shaheryar Haider  
-**Course:** Applications of AI and Machine Learning in Finance  
-**Institution:** Desautels Faculty of Management, McGill University  
 
 ---
 
