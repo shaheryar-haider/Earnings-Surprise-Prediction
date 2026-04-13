@@ -1,7 +1,5 @@
 ## Earnings Surprise Prediction Strategy
 
-**Author:** Shaheryar Haider  
-
 ---
 
 ## Strategy Overview
